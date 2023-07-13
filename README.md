@@ -6,10 +6,12 @@
 <img src="https://img.shields.io/badge/Adobephotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobeillustrator-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobeindesign-FF3366?style=flat-square&logo=Adobeindesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudiocode-007ACC?style=flat-square&logo=VisualStudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>kerryjhk@gmail.com
 
 
 <!--
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> kerryjhk@gmail.com
+
+
 **JungHeekyung/JungHeekyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
